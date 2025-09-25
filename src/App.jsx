@@ -112,7 +112,7 @@ function App() {
         university: "University Of The Assumption - City of San Fernando, Pampanga",
       },
       {
-        timeline: "2017 - 2023",
+        timeline: "2021 - 2023",
         degree: "Senior High School: Academic Track - Science, Technology, Engineering, and Mathematics (STEM)",
         highschool: "Arayat Holy Child Educational Foundation, Inc. - Arayat, Pampanga",
       },
