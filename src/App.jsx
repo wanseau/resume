@@ -102,8 +102,8 @@ function App() {
     "Adept at troubleshooting code and solving complex problems honed through various programming labs and coursework.",
     "Experience building applications for academic projects using Python, JavaScript, and C++, applying core Object-Oriented Programming (OOP) principles.",
     "A motivated and quick learner, passionate about exploring new technologies and continuously expanding my technical skill set.",
-    "Proven ability to work effectively in a team environment, contributing to shared codebases and achieving project goals."
-    ]
+    "Proven ability to work effectively in a team environment, contributing to shared codebases and achieving project goals.",
+    ],
     summary: "Driven Information Technology student with hands-on experience in software development and database management. Seeking to apply a passion for problem-solving and a collaborative mindset to a challenging role. Dedicated to mastering new technologies and contributing to impactful projects.",
     education: [
       {
