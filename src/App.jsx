@@ -97,14 +97,14 @@ function App() {
       email: "laxamanalance9@gmail.com",
     },
     skills: [
-      "Knowledge of JavaScript, Python, and C++ and object-oriented principles.",
-      "Familiar with back-end technologies including Django, SQL, and node.js.",
-      "Familiar with collaborative development using Git and GitHub.",
-      "Strong analytical and critical-thinking skills.",
-      "Proven team player with experience in collaborative projects.",
-      "Adaptable and eager to embrace new technologies.",
-    ],
-    summary: "Aspiring IT professional with a solid foundation in programming and web development. Eager to contribute technical skills and a strong work ethic to a dynamic team. Committed to continuous learning and growth in the ever-evolving field of technology.",
+    "Proficient with version control using Git and GitHub for managing code in both individual and team-based academic projects.",
+    "Developing practical experience in server-side logic and database management using technologies like Node.js, Django, and SQL.",
+    "Adept at troubleshooting code and solving complex problems honed through various programming labs and coursework.",
+    "Experience building applications for academic projects using Python, JavaScript, and C++, applying core Object-Oriented Programming (OOP) principles.",
+    "A motivated and quick learner, passionate about exploring new technologies and continuously expanding my technical skill set.",
+    "Proven ability to work effectively in a team environment, contributing to shared codebases and achieving project goals."
+    ]
+    summary: "Driven Information Technology student with hands-on experience in software development and database management. Seeking to apply a passion for problem-solving and a collaborative mindset to a challenging role. Dedicated to mastering new technologies and contributing to impactful projects.",
     education: [
       {
         timeline: "2023 - \nCurrent",
